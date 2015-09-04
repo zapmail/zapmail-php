@@ -2,6 +2,7 @@
 	"name": "zapmail/zapmail",
 	"version": "1.0.0",
 	"description": "Official ZapMail API library client for PHP",
+	"minimum-stability": "dev",
 	"homepage": "https://zapmail.io",
 	"authors": [
 		{
