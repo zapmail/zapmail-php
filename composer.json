@@ -1,0 +1,24 @@
+{
+	"name": "zapmail/zapmail",
+	"version": "1.0.0",
+	"description": "Official ZapMail API library client for PHP",
+	"homepage": "https://zapmail.io",
+	"authors": [
+		{
+			"name": "ZapMail",
+			"email": "support@zapmail.io",
+			"homepage": "https://zapmail.io"
+		}
+	],
+  "keywords": ["free", "email", "validation", "zapmail", "service", "verification"],
+	"autoload": {
+		"classmap": ["src/"]
+	},
+	"require": {
+		"php": ">=5.3.0"
+	},
+	"support": {
+		"issues": "https://github.com/zapmail/zapmail-php/issues"
+	},
+	"license": "MIT"
+}
