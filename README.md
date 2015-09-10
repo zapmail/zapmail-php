@@ -5,7 +5,7 @@ Free Email Verification for PHP https://zapmail.io
 ZapMail helps determine the deliverability on an email address by verifying the recipient actually exists, and more.
 
 ## Getting Started
-To begin, hop over to [zapmail.io](http://zapmail.io) and create a free account. Once you've signed up and logged in, click on **API Settings** and then click **Add API Key**. Take note of the generated API Key - you'll need it for the example below.
+To begin, hop over to [zapmail.io](http://zapmail.io) and create a free account. Once you've signed up and logged in, click on **API Settings** and then click **Generate new token**. Take note of the generated API Key - you'll need it for the example below.
 
 ## Installation
 Make sure you have [composer](https://getcomposer.org) installed.
